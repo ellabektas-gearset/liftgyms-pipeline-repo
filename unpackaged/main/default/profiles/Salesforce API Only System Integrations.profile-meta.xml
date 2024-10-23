@@ -974,11 +974,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Contact.membership_expiry_date__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>ContactPointAddress.ActiveFromDate</field>
         <readable>true</readable>
     </fieldPermissions>
