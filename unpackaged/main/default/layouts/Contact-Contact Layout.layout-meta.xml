@@ -39,7 +39,7 @@
         <customLabel>true</customLabel>
         <detailHeading>true</detailHeading>
         <editHeading>true</editHeading>
-        <label>Personal Information</label>
+        <label>Personal Details</label>
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
