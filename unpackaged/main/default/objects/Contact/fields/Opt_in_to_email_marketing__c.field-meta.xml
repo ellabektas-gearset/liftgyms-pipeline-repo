@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Opt_in_to_email_marketing__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Check this if the user has decided they want to receive email marketing content.</description>
+    <externalId>false</externalId>
+    <label>Opt in to email marketing</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
