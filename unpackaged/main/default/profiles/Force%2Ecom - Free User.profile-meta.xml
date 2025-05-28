@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>false</custom>
     <userLicense>Force.com - Free</userLicense>
@@ -3480,18 +3480,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>CalculationMatrixRow-Decision Matrix Row Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationMatrixVersion-Decision Matrix Version Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationProcedure-Calculation Procedure Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationProcedureStep-Calculation Procedure Step Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationProcedureVariable-Calculation Procedure Variable Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>CalculationProcedureVersion-Calculation Procedure Version Layout</layout>
