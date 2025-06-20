@@ -15,6 +15,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>Opt_in_to_email_marketing__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>Is_Active_Member__c</field>
             </layoutItems>
         </layoutColumns>
